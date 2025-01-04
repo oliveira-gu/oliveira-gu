@@ -10,7 +10,7 @@ I'm currently a Computer Science student (since 2022), and I'm passionate about 
 - Object-Oriented Programming (OOP)
 
 📈 **Currently learning:**
-- Monolithic software architectures
+- Object-Oriented Programming (OOP) with Java
 - Enhancing software development practices
 
 Feel free to explore my repositories and connect!
