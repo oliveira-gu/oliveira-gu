@@ -12,6 +12,9 @@ I'm currently a Computer Science student (since 2022), and I'm passionate about 
 
 📈 **Currently learning:**
 - Data Structures both in Java and C
+- Graphics programming in C
+- Operating Systems theory
+- Linux Command Line Interface & Shell Script
 - Enhancing software development practices
 
 Feel free to explore my repositories and connect!
